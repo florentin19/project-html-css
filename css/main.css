@@ -1,0 +1,50 @@
+* {
+  box-sizing:border-box;
+}
+
+body{
+  font-size: 16px;
+  color: black;
+  background-color: powderblue;
+}
+/*Navbar*/
+
+#nav{
+  background-color: white;
+  border: white;
+  color: red;
+}
+
+.nav {
+  float: right;
+}
+
+nav li a {
+  color: gray;
+}
+
+nav li :hover{
+  text-decoration: none;
+  background-color: blue;
+}
+
+
+
+/*section*/
+.wrapper, .content{
+  margin: 0 20px;
+}
+.first-content{
+  padding: 0 20px;
+  width: 45.50%;
+  border: 10px groove black;
+  border-radius: 10px;
+  width: 700px;
+  
+}
+
+.ip{
+  line-height: 25px;
+  text-indent: 30px;
+  text-align: justify;
+}
