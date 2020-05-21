@@ -48,3 +48,16 @@ nav li :hover{
   text-indent: 30px;
   text-align: justify;
 }
+/* Footer*/
+.zim{
+  background-color: #6351ce;
+  color: white;
+}
+.deeper{
+  color: white;
+  background-color: black;
+}
+
+#deep{
+  width: 60px;
+}
